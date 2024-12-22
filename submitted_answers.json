@@ -1,0 +1,53 @@
+[
+  {
+    "userAnswers": {
+      "q1": "Berlin",
+      "q2": "8",
+      "q3": "Venus",
+      "q4": "Shakespeare",
+      "q5": "Blue Whale",
+      "q6": "8",
+      "q7": "O2",
+      "q8": "Tokyo",
+      "q9": "3",
+      "q10": "Atlantic"
+    },
+    "score": 5,
+    "percentage": "50.00",
+    "timestamp": "2024-12-22 22:35:15"
+  },
+  {
+    "userAnswers": {
+      "q1": "Paris",
+      "q2": "10",
+      "q3": "Mars",
+      "q4": "Shakespeare",
+      "q5": "Blue Whale",
+      "q6": "16",
+      "q7": "H2O",
+      "q8": "Tokyo",
+      "q9": "2",
+      "q10": "Pacific"
+    },
+    "score": 8,
+    "percentage": "80.00",
+    "timestamp": "2024-12-22 22:35:44"
+  },
+  {
+    "userAnswers": {
+      "q1": "Paris",
+      "q2": "10",
+      "q3": "Venus",
+      "q4": "Shakespeare",
+      "q5": "Elephant",
+      "q6": "8",
+      "q7": "H2O",
+      "q8": "Tokyo",
+      "q9": "2",
+      "q10": "Atlantic"
+    },
+    "score": 6,
+    "percentage": "60.00",
+    "timestamp": "2024-12-22 22:58:59"
+  }
+]
